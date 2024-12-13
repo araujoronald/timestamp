@@ -2,13 +2,9 @@
 
 Repository with some code for timestamps according to RFC 3161 (Time Stamp Protocol
 
-## Java
+## Java (/examples/java)
 
-/examples/java
-
-#### PDFTimestampSignature
-
-Main Class
+#### PDFTimestampSignature (Main Class)
 
 It will be necessary to change the values ​​of **[[CLIENT-ID]]** and **[[CLIENT-SECRET]]** for the TimeStamp API authentication credentials.
 
